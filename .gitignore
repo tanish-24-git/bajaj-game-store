@@ -1,0 +1,5 @@
+*
+!.gitignore
+!angular-shell/**
+!scripts/**
+
